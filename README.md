@@ -1,5 +1,5 @@
 # Front-End Developers Miami Community
-![Imgur](https://imgur.com/Mnl4bDv)
+![Imgur](https://imgur.com/Mnl4bDv.png)
 
 A fiscal sponsored project on behalf of Code for South Florida. Front-End Developers Miami (FEDM) is where
 developers at any level can meet, find community, and find local support through their developer journey 
